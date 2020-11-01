@@ -61,7 +61,7 @@ namespace PraktikumsaufgabeOnlineShop
                 if (totalAmount >= 25.0 && totalAmount < 30.0) // check for free shipping
                 {
                     // show client that only a can pepper spice is needed for free shipping
-                    Console.WriteLine($"\nIhnen fehlen noch {30 - totalAmount} Euro bis zum kostenfreien Versand!");
+                    Console.WriteLine($"\nIhnen fehlen noch {30 - totalAmount,4:f2} Euro bis zum kostenfreien Versand!");
                     Console.WriteLine("Wollen Sie noch eine Dose Pfeffer mehr bestellen und den Versand");
                     Console.WriteLine("sparen (ja|nein) ?"); // manual line break for better readability
                     yesNo = Convert.ToString(Console.ReadLine());
@@ -94,6 +94,11 @@ namespace PraktikumsaufgabeOnlineShop
                 Console.WriteLine($"{"Versandpauschale",-45}{shippingFee,8:f2} EUR");
                 Console.WriteLine("------------------------------------------------------------------");
                 Console.WriteLine($"{"Summe",-45}{totalAmountWithShipping,8:f2} EUR");
+
+                // ask for any key to exit program
+                Console.WriteLine($"\n");
+                Console.Write("Press any key to exit!");
+                Console.ReadKey();
             }
         }
     }
