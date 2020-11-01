@@ -1,0 +1,13 @@
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\bin\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.exe
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\bin\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.deps.json
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\bin\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.runtimeconfig.json
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\bin\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.runtimeconfig.dev.json
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\bin\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.dll
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\bin\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.pdb
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\obj\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.csprojAssemblyReference.cache
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\obj\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.AssemblyInfoInputs.cache
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\obj\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.AssemblyInfo.cs
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\obj\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\obj\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.dll
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\obj\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.pdb
+C:\Users\Michael\source\ProgPraktikum1\PraktikumsaufgabeOnlineShop\PraktikumsaufgabeOnlineShop\obj\Debug\netcoreapp3.1\PraktikumsaufgabeOnlineShop.genruntimeconfig.cache

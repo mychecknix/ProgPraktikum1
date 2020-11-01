@@ -1,0 +1,13 @@
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\bin\Debug\netcoreapp3.1\Schleifen.exe
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\bin\Debug\netcoreapp3.1\Schleifen.deps.json
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\bin\Debug\netcoreapp3.1\Schleifen.runtimeconfig.json
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\bin\Debug\netcoreapp3.1\Schleifen.runtimeconfig.dev.json
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\bin\Debug\netcoreapp3.1\Schleifen.dll
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\bin\Debug\netcoreapp3.1\Schleifen.pdb
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\obj\Debug\netcoreapp3.1\Schleifen.AssemblyInfoInputs.cache
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\obj\Debug\netcoreapp3.1\Schleifen.AssemblyInfo.cs
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\obj\Debug\netcoreapp3.1\Schleifen.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\obj\Debug\netcoreapp3.1\Schleifen.dll
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\obj\Debug\netcoreapp3.1\Schleifen.pdb
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\obj\Debug\netcoreapp3.1\Schleifen.genruntimeconfig.cache
+C:\Users\Michael\source\ProgPraktikum1\Schleifen\obj\Debug\netcoreapp3.1\Schleifen.csprojAssemblyReference.cache
